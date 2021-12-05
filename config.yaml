@@ -1,0 +1,88 @@
+baseURL: 'https://rizalasrul.com/'
+title: 'Rizal Asrul Pambudi'
+paginate: 5
+theme: 'PaperMod'
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+googleAnalytics: UA-123-45
+minify:
+  disableXML: true
+  minifyOutput: true
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: 'Rizal Asrul Pambudi params'
+  description: 'ExampleSite description'
+  keywords: ['Rizal', 'Asrul', 'Pambudi', 'Personal Website', 'CV', 'Blog']
+  author: 'Rizal Asrul Pambudi'
+  images: ['/opengraph.png']
+  DateFormat: 'January 2, 2006'
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  assets:
+    favicon: '/me.jpeg'
+    favicon16x16: '/me.jpeg'
+    favicon32x32: '/me.jpeg'
+    apple_touch_icon: '/me.jpeg'
+    safari_pinned_tab: '/me.jpeg'
+
+  label:
+    text: 'Home'
+
+  # profile-mode
+  profileMode:
+    enabled: true
+    title: 'Rizal Asrul Pambudi'
+    subtitle: 'Truth can only be found in one place, the code'
+    imageUrl: '/me.jpeg'
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: 'Rizal avatar'
+    buttons:
+      - name: 'Blog 📝'
+        url: blog
+      - name: 'TIL 💡'
+        url: til
+  socialIcons:
+    - name: 'linkedin'
+      url: 'https://www.linkedin.com/in/rizalasrul/'
+    - name: 'instagram'
+      url: 'https://instagram.com/rizalasrul'
+    - name: 'github'
+      url: 'https://github.com/rizalasrul'
+  analytics:
+    google:
+      SiteVerificationTag: 'XYZabc'
+    bing:
+      SiteVerificationTag: 'XYZabc'
+    yandex:
+      SiteVerificationTag: 'XYZabc'
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+  editPost:
+    URL: 'https://github.com/<path_to_repo>/content'
+    Text: 'Suggest Changes' # edit text
+    appendFilePath: true # to append file path to Edit link
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ['title', 'permalink', 'summary', 'content']

@@ -2,7 +2,7 @@
 title: 'Less Than Three: game for the warriors of love'
 description: 'This is my first game that I built in collage'
 date: '2014-02-25'
-tags: ['project', 'c#', 'unity']
+tags: ['project', 'csharp', 'unity']
 ShowToc: false
 ---
 

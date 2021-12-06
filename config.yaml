@@ -6,14 +6,14 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-googleAnalytics: UA-123-45
+googleAnalytics: 'UA-178654136-1'
 minify:
   disableXML: true
   minifyOutput: true
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: 'Rizal Asrul Pambudi params'
-  description: 'ExampleSite description'
+  title: 'rizalasrul.com'
+  description: 'Personal website/blog of Rizal Asrul Pambudi'
   keywords: ['Rizal', 'Asrul', 'Pambudi', 'Personal Website', 'CV', 'Blog']
   author: 'Rizal Asrul Pambudi'
   images: ['/opengraph.png']
@@ -38,11 +38,8 @@ params:
     favicon32x32: '/me.jpeg'
     apple_touch_icon: '/me.jpeg'
     safari_pinned_tab: '/me.jpeg'
-
   label:
     text: 'Home'
-
-  # profile-mode
   profileMode:
     enabled: true
     title: 'Rizal Asrul Pambudi'
@@ -63,21 +60,10 @@ params:
       url: 'https://instagram.com/rizalasrul'
     - name: 'github'
       url: 'https://github.com/rizalasrul'
-  analytics:
-    google:
-      SiteVerificationTag: 'XYZabc'
-    bing:
-      SiteVerificationTag: 'XYZabc'
-    yandex:
-      SiteVerificationTag: 'XYZabc'
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-  editPost:
-    URL: 'https://github.com/<path_to_repo>/content'
-    Text: 'Suggest Changes' # edit text
-    appendFilePath: true # to append file path to Edit link
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true

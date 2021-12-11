@@ -51,8 +51,8 @@ params:
     buttons:
       - name: 'Blog 📝'
         url: blog
-      - name: 'TIL 💡'
-        url: til
+      - name: '30DayWritingChallenge ✍️'
+        url: '30-day-writing-challenge'
   socialIcons:
     - name: 'linkedin'
       url: 'https://www.linkedin.com/in/rizalasrul/'

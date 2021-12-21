@@ -13,7 +13,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 'rizalasrul.com'
-  description: 'Personal website/blog of Rizal Asrul Pambudi'
+  description: 'Personal website of Rizal Asrul Pambudi'
   keywords: ['Rizal', 'Asrul', 'Pambudi', 'Personal Website', 'CV', 'Blog']
   author: 'Rizal Asrul Pambudi'
   images: ['/opengraph.png']

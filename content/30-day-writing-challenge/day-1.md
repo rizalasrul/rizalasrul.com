@@ -1,6 +1,6 @@
 ---
 title: 'Things I learned when I started working at Buka'
-date: '2021-12-22'
+date: '2020-12-22'
 tags: ['30DayWritingChallenge']
 ShowToc: false
 ---

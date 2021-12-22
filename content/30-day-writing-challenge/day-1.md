@@ -5,7 +5,7 @@ tags: ['30DayWritingChallenge']
 ShowToc: false
 ---
 
-This is the first post in a series of #30DayWritingChallenge. I consider this article as a warm-up because it has been a long time since written on a blog. Each day there will be a different topic or discussion that might stimulate me to another topic or discussion. There are no fixed rules such as how many words the minimum, or what the topic should be written. Whatever comes to mind, that's what I'll write. The essence is to practice consistency.
+This is the first post in a series of #30DayWritingChallenge. I consider this article as a warm-up because it has been a long time since I wrote on a blog. Each day there will be a different topic or discussion that might stimulate me to another topic or discussion. There are no fixed rules such as how many words the minimum, or what the topic should be written. Whatever comes to mind, that's what I'll write. The essence is to practice consistency.
 
 So, let's start.
 

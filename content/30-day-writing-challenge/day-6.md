@@ -7,7 +7,7 @@ ShowToc: false
 
 I'm not a manager. I wrote this based on my observations, reading books, and listening to some podcasts.
 
-So this is what the manager wants from his subordinates.
+So this is what the manager wants from his subordinates:
 
 1. Have professional responsibilities, so you don't need to be micromanaged.
 2. Really understand KPI and OKR, and know how to achieve them.

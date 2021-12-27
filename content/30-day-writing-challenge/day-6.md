@@ -1,5 +1,5 @@
 ---
-title: 'What the manager wants from you'
+title: 'What does manager want from you'
 date: '2021-12-27'
 tags: ['30DayWritingChallenge']
 ShowToc: false
@@ -13,7 +13,7 @@ So this is what the manager wants from his subordinates:
 2. Really understand KPI and OKR, and know how to achieve them.
 3. Be by their side, not the opposite.
 4. You are not "cancer" that spreads bad traits and atmosphere to the team.
-5. High achievers - asked for something but you deliver more than that.
+5. High achievers - asked for something but you deliver more.
 6. Willing to the extra mile. Not selfish - just thinking about your own work.
 
 ---

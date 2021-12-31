@@ -59,7 +59,7 @@ Actually, I already have the rizalasrul.com domain since a year ago. Initially, 
 
 ## Read more books
 
-As I write ["Things to be grateful for in 2019"](/30-day-writing-challenge/day-8/), I read quite a lot when compared to last year. Not only reading, but I also had time to make a summary of what I read on my Instagram. I hope next year I can read more.
+As I write [here](/30-day-writing-challenge/day-8/), I read quite a lot when compared to last year. Not only reading, but I also had time to make a summary of what I read on my Instagram. I hope next year I can read more.
 
 ## Write more
 

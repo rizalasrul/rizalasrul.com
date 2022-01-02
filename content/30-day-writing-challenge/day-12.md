@@ -15,7 +15,7 @@ But I also get a different point of view that the book also implicitly explains 
 Here are the things we can do:
 
 1. Critical in providing feedback. When the product manager gives a problem statement - perhaps through PRD, what they want is that the engineer is able to provide critical feedback on that problem statement.
-2. Communicative. Don't be a "yes man". Product manager knows that the engineer is probably the smartest person on his team. Therefore, if we have concerns, ideas, or input, communicate them well. I've written about how engineers communicate effectively in this [post](blog/communicate-effectively-as-a-software-engineer/).
+2. Communicative. Don't be a "yes man". Product manager knows that the engineer is probably the smartest person on his team. Therefore, if we have concerns, ideas, or input, communicate them well. I've written about how engineers communicate effectively in this [post](/blog/communicate-effectively-as-a-software-engineer/).
 3. Be confident. If product manager is asking us something, actually the product manager is genuinely asking, not to test us. So answer the question as well as possible without feeling pressured.
 
 ---

@@ -4,7 +4,7 @@ date: '2022-01-05'
 tags: ['30DayWritingChallenge']
 ---
 
-It doesn't feel like I'm halfway through the #30DayWritingChallenge. Actually today I've no idea what to write about.
+It doesn't feel like I'm halfway through the #30DayWritingChallenge. Actually today I have no idea what to write about.
 
 Then suddenly Facebook refreshed my memory with this old photograph.
 

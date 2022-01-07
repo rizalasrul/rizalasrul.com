@@ -1,5 +1,5 @@
 ---
-title: 'Things you should not do according for better life'
+title: 'Things you should not do for better life'
 date: '2022-01-07'
 tags: ['30DayWritingChallenge']
 ---

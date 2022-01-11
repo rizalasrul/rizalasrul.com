@@ -15,3 +15,5 @@ If we found out we were dying tomorrow, would we keep doing it? Would we do it t
 So when you ask yourself "is this essential?", you eliminate so much of what you don't need to be doing. You get the double benefit of now doing fewer things better.
 
 That's why you ask yourself this question, "is this essential?", "do I actually need to be doing it?", "am I doing it the way that it needs to be done?". And you ask this of everything you do, say, and think.
+
+> This article is part of the 30 Day Writing Challenge. I'll challenge myself to write whatever comes to mind.

@@ -14,7 +14,7 @@ Since then, whenever a new Harry Potter book is released, my dad always buys the
 
 Until finally the sixth Harry Potter book was released. The sixth book is one of my favorite books. The book that touched my heart the most when compared to the five previous books.
 
-Suddenly after finishing reading the sixth book, I wanted to buy the seventh book (the last Harry Potter book) using my own money. But I know the price must be expensive for me at that time. As far as I remember the sixth book costs over Rp. 150,000. Surely the seventh, and also the final book can be priced above that.
+Suddenly after finishing reading the sixth book, I wanted to buy the seventh book (the last Harry Potter book) using my own money. But I know the price must be expensive for me at that time. As far as I remember the sixth book costs over Rp150,000. Surely the seventh, and also the final book can be priced above that.
 
 Long story short, I finally managed to buy the seventh Harry Potter book with my own. I got the money from saving from eid packets and from the pocket money I got from my parents.
 

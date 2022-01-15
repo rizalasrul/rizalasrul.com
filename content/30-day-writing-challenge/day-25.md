@@ -6,7 +6,7 @@ tags: ['30DayWritingChallenge']
 
 Earlier this year I just finished a book called ["The Introvert's Complete Career Guide: From Landing a Job, to Surviving, Thriving, and Moving on Up"](https://www.goodreads.com/book/show/40175457-the-introvert-s-complete-career-guide) by Jane Finkle. This book was written based on the personal experience of the author who at that time struggled as an introvert in the early days of his career. This book provides guidance from finding a job, writing a CV, handling interviews, and also how to stand out in an office environment dominated by extroverts.
 
-Before discussing what I got from this book, let's make our understanding of introversion and extroversion equal.
+Before discussing what I got from this book, let's make sure we're on the same page about the definition of introversion and extroversion.
 
 Introversion and extroversion are not about whether we're shy or outgoing. They're about our sensitivity to stimulation and how our energy levels are affected by social interaction. Susan Cain offers a beautiful way of thinking about this (as relayed by Simon Sinek).
 
@@ -16,7 +16,7 @@ Extroverts wake up in the morning with no coins. With every social interaction t
 
 What I've learned is it doesn't matter which one you are. The question is how do you leverage what you got.
 
-I am an introvert, and this book made me learn how to leverage that in my career.
+I am an introvert, and this book made me learn how to leverage that in my job.
 
 To maintain a career, you must learn to stand out in an office dominated by extroverts. Since I work as a software engineer in a product development team, my environment is actually dominated by introverts. But the method of this book can still be applied.
 

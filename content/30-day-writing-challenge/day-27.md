@@ -4,7 +4,7 @@ date: '2022-01-17'
 tags: ['30DayWritingChallenge']
 ---
 
-Actually, I've written about pragmatic programmers. In that article, I wrote about the definition of pragmatic, what makes a programmer pragmatic, and the characteristics of a pragmatic programmer. In this post, I will make ten takeaways from the book The Pragmatic Programmer, which can be considered as a continuation of the previous article.
+Actually, I've written about [pragmatic programmers](/blog/what-makes-a-programmer-pragmatic/). In that article, I wrote about the definition of pragmatic, what makes a programmer pragmatic, and the characteristics of a pragmatic programmer. In this post, I will make ten takeaways from the book The Pragmatic Programmer, which can be considered as a continuation of the previous article.
 
 As programmers, we want to be spending less time in purposeless meetings, fixing annoying bugs, and more time doing what we love, which is actually programming away on fun solutions to interesting problems.
 

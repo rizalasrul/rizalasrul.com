@@ -12,45 +12,45 @@ I just finished The Pragmatic Programmer by Andrew Hunt and David Thomas, and it
 
 Here are the ten takeaways from The Pragmatic Programmer:
 
-# No dogma
+## No dogma
 
 A pragmatic programmer is technology-agnostic. Meaning they're not wedded to any particular language toolset or operating system. It's fine to have preferences, but we need to see each set of circumstances uniquely and apply a solution appropriately.
 
-# Great power, great curiosity
+## Great power, great curiosity
 
 Software is among the most autonomous professions there are. Good engineers don't take this agency for granted. They care about their craft and think about their work.
 
-# Good-enough software
+## Good-enough software
 
 The "good enough" doesn't mean sloppy. We must meet the user's requirement, but no more than that because time is precious. And don't forget to involve the user when making trade-offs.
 
-# No broken windows
+## No broken windows
 
 Quality is a team issue. Leaving issues unfixed sends bad signals. A team should not tolerate broken windows. As a good engineer, you need to set an example by continually refactoring and fixing bugs when you encounter them.
 
-# Let it crash
+## Let it crash
 
 Dead programs don't lie. Crashing as early as possible prevents catastrophes from slipping by into production. Overly defensive programming is dangerous. Let it crash.
 
-# Decouple your code
+## Decouple your code
 
 If everyone has to attend a meeting because no one's sure what will be affected by a change, the code needs decoupling. Decoupled code is easier to change.
 
-# Coding is non-mechanical
+## Coding is non-mechanical
 
 Coding is not just a matter of blindly transcribing the design into executable statements. If our software is to enjoy a long healthy life, we need to continually think about improvements.
 
-# Keep it simple
+## Keep it simple
 
 There are many reasons to keep design simple. It's easier to change and maintain, but also safer.
 
 Higher code complexity means a larger attack surface. Less code means fewer bugs and fewer opportunities for security holes.
 
-# Be a therapist
+## Be a therapist
 
 Part of being a good programmer is helping the client figure out what he/she really wants. Project requirements are learned in a feedback loop between both parties. Never trust a customer's first statement of needs. Help them clarify what they really need.
 
-# Don't panic
+## Don't panic
 
 If coding feels like an uphill battle, take a step back. It's probably harder than it needs to be.
 

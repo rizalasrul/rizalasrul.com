@@ -8,7 +8,7 @@ Being a leader is difficult, at least that's how I felt when I was the class lea
 
 I just want to be mediocre.
 
-I feel that I have participated in community groups by being a passive person because everyone has their role. Meaning, there are already other people who are active and willing to be in charge, so I can simply be a compliment in the community. If everyone is active and wants to lead, there will be chaos.
+I feel that I have participated in society by being a passive person because everyone has their role. Meaning, there are already other people who are active and willing to be in charge, so I can simply be a compliment in the society. If everyone is active and wants to lead, there will be chaos.
 
 Unless my personal interests are "attacked", maybe I'll take action.
 

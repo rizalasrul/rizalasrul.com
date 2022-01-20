@@ -4,7 +4,7 @@ date: '2022-01-20'
 tags: ['30DayWritingChallenge']
 ---
 
-It’s been a little over four years since I joined Bukalapak and the journey has been nothing short of a dreamy experience. Working along with talented individuals and experimenting with various ideas, I got a chance to try my hand at building new systems and features.
+It’s been a little over four years since I joined Bukalapak and the journey has been nothing short of a dreamy experience. Working along with talented individuals and experimenting with various ideas, I got a chance to try my hand at building new systems and features.
 
 In this post, I'll tell you about my journey as a developer in Bukalapak.
 

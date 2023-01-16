@@ -43,7 +43,7 @@ params:
   profileMode:
     enabled: true
     title: 'Rizal Asrul Pambudi'
-    subtitle: 'Truth can only be found in one place, the code'
+    subtitle: 'Empower others by sharing the knowledge'
     imageUrl: '/me.jpeg'
     imageWidth: 120
     imageHeight: 120
@@ -53,6 +53,8 @@ params:
         url: blog
       - name: '30DayWritingChallenge ✍️'
         url: '30-day-writing-challenge'
+      - name: 'Learn Golang 🦉'
+        url: 'learn-golang'
   socialIcons:
     - name: 'linkedin'
       url: 'https://www.linkedin.com/in/rizalasrul/'

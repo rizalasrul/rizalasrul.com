@@ -1,6 +1,6 @@
 ---
-title: 'Tipe Data Boolean'
-date: '2023-01-19'
+title: '03 - Tipe Data Boolean'
+date: '2023-01-04'
 tags: ['golang', 'basic']
 ShowToc: true
 ---

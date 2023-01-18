@@ -1,6 +1,6 @@
 ---
-title: 'Hello World'
-date: '2023-01-17'
+title: '01 - Hello World'
+date: '2023-01-02'
 tags: ['golang', 'basic']
 ShowToc: true
 ---
@@ -23,12 +23,12 @@ func main() {
 
 ## Compile
 
-Anggaplah kamu membuat program hello world di atas dengan nama file `helloworld.go`. Untuk melakukan kompilasi, kamu dapat menggunakan command `go build helloworld.go`. Hasil dari kompilasi tersebut adalah binary file dengan nama `helloworld`.
+Anggaplah kita membuat program hello world di atas dengan nama file `helloworld.go`. Untuk melakukan kompilasi, kita dapat menggunakan command `go build helloworld.go`. Hasil dari kompilasi tersebut adalah binary file dengan nama `helloworld`.
 
-Untuk menjalankan binary file tersebut, kamu dapat menggunakan command `./helloworld`.
+Untuk menjalankan binary file tersebut, kita dapat menggunakan command `./helloworld`.
 
 ## Menjalankan tanpa compile
 
 Ada cara cepat untuk menjalankan program golang tanpa harus melakukan compile. Cara tersebut adalah dengan menggunakan command `go run helloworld.go`.
 
-Cara ini hanya dapat dilakukan untuk proses development di local. Kalau kamu ingin rilis ke production, maka wajib untuk melakukan kompilasi.
+Cara ini hanya dapat dilakukan untuk proses development di local. Kalau kita ingin rilis ke production, maka wajib untuk melakukan kompilasi.

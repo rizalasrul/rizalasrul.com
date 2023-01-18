@@ -1,6 +1,6 @@
 ---
-title: 'Tipe Data Number'
-date: '2023-01-18'
+title: '02 - Tipe Data Number'
+date: '2023-01-03'
 tags: ['golang', 'basic']
 ShowToc: true
 ---

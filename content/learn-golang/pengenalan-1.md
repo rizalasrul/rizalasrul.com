@@ -1,6 +1,6 @@
 ---
-title: 'Pengenalan'
-date: '2023-01-16'
+title: '00 - Pengenalan'
+date: '2023-01-01'
 tags: ['golang', 'basic']
 ShowToc: true
 ---
@@ -13,6 +13,6 @@ Golang populer sejak digunakan untuk membuat Docker pada tahun 2011. Sejak itula
 
 ## Proses Development
 
-1. Ketika kamu berhasil melakukan installasi golang, maka di komputer kamu akan terinstall go compiler.
+1. Ketika kita berhasil melakukan installasi golang, maka di komputer kita akan terinstall go compiler.
 2. Source code dari golang akan dicompile menjadi binary file oleh go compiler.
 3. Binary file ini dapat didistribusikan ke windows, linux, atau OS lainnya.
